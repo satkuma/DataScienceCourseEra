@@ -1,3 +1,5 @@
+# line added online. To be pulled
+
 Committed file
 
 -- changes after commit
@@ -6,5 +8,5 @@ Committed file
 
 -checking git diff command
 
-# line added online. To be pulled
+
 
