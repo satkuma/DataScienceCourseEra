@@ -3,3 +3,6 @@ Committed file
 -- changes after commit
 
 --another change after commit
+
+-checking git diff command
+
