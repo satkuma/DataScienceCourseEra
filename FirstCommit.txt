@@ -6,3 +6,4 @@ Committed file
 
 -checking git diff command
 
+--new line added for develop branch. not visible for master
